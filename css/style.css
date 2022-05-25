@@ -1,0 +1,109 @@
+body {
+    font-family: "sans-serif";
+    margin: 10px 80px;
+}
+.nav-bar {
+display: flex;
+    /* margin: 12px; */
+}
+.connect-nav ul li a:hover {
+    text-decoration: none;
+    color: white;
+}
+.nav-bar li {
+width: 144px;
+}
+
+ul {
+list-style: none;
+}
+
+.inscr {
+/* width: 50%; */
+margin-left: 313px;
+margin-top: 14px;
+}
+
+.content-insc {
+padding: 12px;
+}
+.backgreen {
+background-color: #1f1;
+border-radius: 12px;
+}
+
+.input-form {
+width: 651px;
+height: 35px;
+border-radius: 12px;
+}
+
+.top-2 {
+margin-top: 6px;
+width: 112px;
+}
+.bouton-env:hover {
+background-color: orange;
+color: black;
+}
+.oublie-mdp {
+color: rgb(17, 65, 221);
+}
+{
+background-color: #000;
+}
+
+.btn-danger {
+float: right;
+}
+
+.delete-compte {
+margin: right;
+/* background-color: rgb(170, 33, 33); */
+}
+
+.connect-nav ul {
+display: flex;
+}
+
+.connect-nav {
+
+}
+
+.connect-nav ul li {
+color: white;
+width: 135px;
+font-size: bold;
+}
+.connect-nav ul li:hover {
+color: white;
+width: 135px;
+font-size: bold;
+}
+.connect-nav {
+background-color: #33330F;
+padding: 6px;
+}
+
+.delete-compte:hover {
+    font-size: 17px;
+}
+
+.delete-compte {
+
+}
+.delete-button a:hover {
+text-decoration: none;
+color: black;
+font-weight: bolder;
+}
+
+.delete-button {
+text-decoration: none;
+color: black;
+border-radius: 12px;
+}
+.delete-compte button {
+background-color: rgb(204, 73, 25);
+}
+
